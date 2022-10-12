@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YASEEN-1
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning DBMS and Python
-- 💞️ I’m looking to collaborate on Any Project
+- 🌱 Languages: MySQL(DBMS), Python, HTML, C++.
+- 💞️ I’m looking to collaborate on any Project
 - 📫 How to reach me khuwajazai1@gmail.com
 
 <!---
